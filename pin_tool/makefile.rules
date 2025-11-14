@@ -1,0 +1,14 @@
+#
+# makefile.rules - Profiler (固定使用 cp-pin.exe)
+#
+
+TEST_TOOL_ROOTS += profiler
+
+# 使用 Pin 官方已编译的 cp-pin.exe 作为测试程序
+TESTAPP = /opt/pin/source/tools/Utils/obj-intel64/cp-pin.exe
+
+profiler.test: $(OBJDIR)profiler$(PINTOOL_SUFFIX) $(TESTAPP)
+	$(PIN) -t $(OBJDIR)profiler$(PINTOOL_SUFFIX) -- $(TESTAPP) > $(OBJDIR)profiler.log 2>&1
+	$(GREP) "0x" pc_trace.out > /dev/null || (cat pc_trace.out && exit 1)
+	@echo "=== profiler test passed ==="
+	$(RM) pc_trace.out $(OBJDIR)profiler.log
