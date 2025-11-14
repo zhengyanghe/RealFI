@@ -5,7 +5,9 @@ first modify the Makefile and Makefile.rule
 using `make` to generate 
 
 obj-intel64
+
 │   ├── pc_profiler.o
+
 │   └── pc_profiler.so
 
 then using the command
