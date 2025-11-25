@@ -13,4 +13,4 @@ obj-intel64
 then using the command
 
 ```bash
-pin -t obj-intel64/pc_profiler.so -o output_file.csv -sample_interval number -- /path/to/your/application
+setarch $(uname -m) -R pin -t obj-intel64/pc_profiler.so -o output_file.csv -sample_interval number -- /path/to/your/application
