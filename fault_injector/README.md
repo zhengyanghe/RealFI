@@ -1,4 +1,4 @@
-pin_tool
+# fault_injector
 first modify the Makefile and Makefile.rule
 
 using make to generate
