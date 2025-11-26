@@ -1,0 +1,41 @@
+=== Stable Bitflip Injector (No PIN_ExecuteAt Edition) ===
+[TARGET] Found ADD instruction @0x7f2220d250d1
+Instruction at 0x7f2220d250d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f2220d250d1
+Instruction at 0x7f2220d250d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f2220d250d1
+Instruction at 0x7f2220d250d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f2220d25146
+Instruction at 0x7f2220d25146: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d25156
+Instruction at 0x7f2220d25156: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d25166
+Instruction at 0x7f2220d25166: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d25176
+Instruction at 0x7f2220d25176: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d25186
+Instruction at 0x7f2220d25186: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d25196
+Instruction at 0x7f2220d25196: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d251a6
+Instruction at 0x7f2220d251a6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d251b6
+Instruction at 0x7f2220d251b6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f2220d2531d
+Instruction at 0x7f2220d2531d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f2220d255ee
+Instruction at 0x7f2220d255ee: add rdi, rsi
+[TARGET] Found ADD instruction @0x7f2220d2531d
+Instruction at 0x7f2220d2531d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f2220d25343
+Instruction at 0x7f2220d25343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f2220d25354
+Instruction at 0x7f2220d25354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f2220d25358
+Instruction at 0x7f2220d25358: add rcx, r12
+[TARGET] Found ADD instruction @0x7f2220d25343
+Instruction at 0x7f2220d25343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f2220d25354
+Instruction at 0x7f2220d25354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f2220d25358
+Instruction at 0x7f2220d25358: add rcx, r12

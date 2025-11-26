@@ -21,6 +21,8 @@ if output_file == input_file:
 
 try:
     # 2. 读取数据 (使用参数)
+    # 注意：为了避免读取 Pin Tool 报告末尾的总结行，我们只读取到第一个非数据行
+    # 通常 Pin Tool 总结行以 '#' 或 '-' 开头，但这里假设输入文件已清洗干净，只读取数据。
     df = pd.read_csv(input_file)
 except FileNotFoundError:
     print(f"Error: The file '{input_file}' was not found.")
@@ -28,6 +30,14 @@ except FileNotFoundError:
 except Exception as e:
     print(f"An error occurred while reading the file: {e}")
     sys.exit(1)
+
+# ==============================================================
+# 2.5. 关键修改：去重，只保留每个 PC 最后一次出现的行
+# ==============================================================
+print("Removing duplicate PCs and keeping the last (most cumulative) record...")
+# 使用 drop_duplicates() 函数，以 'PC' 列为准，并保留最后出现的行 (keep='last')
+df = df.drop_duplicates(subset=['PC'], keep='last').reset_index(drop=True)
+print(f"Remaining unique static PCs: {len(df)}")
 
 
 # 3. 映射 Opcode 为数值（示例，可根据你定义的语义权重进行替换）

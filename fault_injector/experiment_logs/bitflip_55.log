@@ -1,0 +1,41 @@
+=== Stable Bitflip Injector (No PIN_ExecuteAt Edition) ===
+[TARGET] Found ADD instruction @0x7fc472c370d1
+Instruction at 0x7fc472c370d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7fc472c370d1
+Instruction at 0x7fc472c370d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7fc472c370d1
+Instruction at 0x7fc472c370d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7fc472c37146
+Instruction at 0x7fc472c37146: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c37156
+Instruction at 0x7fc472c37156: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c37166
+Instruction at 0x7fc472c37166: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c37176
+Instruction at 0x7fc472c37176: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c37186
+Instruction at 0x7fc472c37186: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c37196
+Instruction at 0x7fc472c37196: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c371a6
+Instruction at 0x7fc472c371a6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c371b6
+Instruction at 0x7fc472c371b6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7fc472c3731d
+Instruction at 0x7fc472c3731d: add rdi, rax
+[TARGET] Found ADD instruction @0x7fc472c375ee
+Instruction at 0x7fc472c375ee: add rdi, rsi
+[TARGET] Found ADD instruction @0x7fc472c3731d
+Instruction at 0x7fc472c3731d: add rdi, rax
+[TARGET] Found ADD instruction @0x7fc472c37343
+Instruction at 0x7fc472c37343: add rdx, r12
+[TARGET] Found ADD instruction @0x7fc472c37354
+Instruction at 0x7fc472c37354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7fc472c37358
+Instruction at 0x7fc472c37358: add rcx, r12
+[TARGET] Found ADD instruction @0x7fc472c37343
+Instruction at 0x7fc472c37343: add rdx, r12
+[TARGET] Found ADD instruction @0x7fc472c37354
+Instruction at 0x7fc472c37354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7fc472c37358
+Instruction at 0x7fc472c37358: add rcx, r12

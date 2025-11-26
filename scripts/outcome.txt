@@ -1,0 +1,307 @@
+
+Injecting PC=0x7fffe438d6ef OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fdaa7a OCC=209
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd4b00 OCC=16
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf107 OCC=4
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce7d2 OCC=27
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce4ae OCC=157
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fdaa02 OCC=14
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd454e OCC=56
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce520 OCC=35
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf284 OCC=5
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fdaa17 OCC=39
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd7486 OCC=114
+
+[CRASH]
+Injecting PC=0x7ffff7fe5835 OCC=1
+
+[CRASH]
+Injecting PC=0x7ffff7fd48ee OCC=1
+
+[CRASH]
+Injecting PC=0x7ffff7fc6495 OCC=2
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf128 OCC=13
+/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: free, version GLIBC_2.2.5
+[CRASH]
+Injecting PC=0x7ffff7fcc5ad OCC=8
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fda9c1 OCC=37
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce2ba OCC=4
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe5339 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fea2e1 OCC=2
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd9436 OCC=22
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fdb408 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe2510 OCC=12
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe56f0 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd5ebe OCC=1
+Inconsistency detected by ld.so: dl-runtime.c: 63: _dl_fixup: Assertion `ELFW(R_TYPE)(reloc->r_info) == ELF_MACHINE_JMP_SLOT' failed!
+[CRASH]
+Injecting PC=0x7ffff7fce7c8 OCC=11
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd4532 OCC=32
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fea2b9 OCC=27
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf203 OCC=3
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf298 OCC=27
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd48ee OCC=1
+
+[CRASH]
+Injecting PC=0x7ffff7fcf26f OCC=2
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x555555555174 OCC=86767
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fdc7db OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf260 OCC=72
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd944d OCC=7
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd443a OCC=27
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf21d OCC=55
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf296 OCC=25
+
+[CRASH]
+Injecting PC=0x7ffff7fe5adc OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fda8b5 OCC=3
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce4e1 OCC=51
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7fffe43aa33b OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf1fc OCC=5
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd4443 OCC=50
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf294 OCC=36
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fda8c0 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce727 OCC=44
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcefde OCC=61
+/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: __key_decryptsession_pk_LOCAL, version GLIBC_2.2.5
+[CRASH]
+Injecting PC=0x7ffff7fd9647 OCC=17
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd5feb OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe6a51 OCC=1
+
+[CRASH]
+Injecting PC=0x7ffff7fce4fc OCC=122
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fda9eb OCC=13
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fea2b1 OCC=11
+
+[CRASH]
+Injecting PC=0x7ffff7fce2e2 OCC=31
+
+[CRASH]
+Injecting PC=0x7ffff7fcefd9 OCC=7
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce439 OCC=20
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd4340 OCC=841
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fea233 OCC=27
+C: [tid:213825] Tool (or Pin) caused signal 5 at PC 0x7ffff789bb63
+[CRASH]
+Injecting PC=0x7ffff7fdaa02 OCC=21
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe6153 OCC=1
+
+[CRASH]
+Injecting PC=0x7ffff7fd9458 OCC=2
+
+[CRASH]
+Injecting PC=0x7ffff7fce7e9 OCC=66
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe0c62 OCC=2
+
+[CRASH]
+Injecting PC=0x7ffff7fd49c4 OCC=3
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce6f9 OCC=14
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd928d OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd4407 OCC=63
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd4435 OCC=48
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce543 OCC=99
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcf0eb OCC=79
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe5b5b OCC=2
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd5ebe OCC=1
+Inconsistency detected by ld.so: dl-runtime.c: 63: _dl_fixup: Assertion `ELFW(R_TYPE)(reloc->r_info) == ELF_MACHINE_JMP_SLOT' failed!
+[CRASH]
+Injecting PC=0x7ffff7fe122d OCC=8
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7fffe4415da0 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fe58fa OCC=1
+
+[CRASH]
+Injecting PC=0x7ffff7fce2e9 OCC=14
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd9354 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce2da OCC=7
+
+[CRASH]
+Injecting PC=0x7ffff7fce260 OCC=55
+
+[CRASH]
+Injecting PC=0x7ffff7fedfb7 OCC=10
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd00bf OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce75d OCC=30
+
+[CRASH]
+Injecting PC=0x7ffff7fd43ea OCC=13
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd43a8 OCC=43
+/home/hyq/SDC/RealFI/simple_test: error while loading shared libraries: /lib/x86_64-linux-gnu/libc.so.6: unexpected reloc type 0x00080006
+[CRASH]
+Injecting PC=0x7ffff7fce80b OCC=2
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fcefde OCC=61
+/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: __key_decryptsession_pk_LOCAL, version GLIBC_2.2.5
+[CRASH]
+Injecting PC=0x7ffff7fe3d64 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd3f56 OCC=1
+/home/hyq/SDC/RealFI/simple_test: error while loading shared libraries: /lib/x86_64-linux-gnu/libc.so.6: unexpected PLT reloc type 0x00
+[CRASH]
+Injecting PC=0x7ffff7fd3f81 OCC=2
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce74d OCC=20
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce4e5 OCC=16
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fee1e1 OCC=5
+
+[CRASH]
+Injecting PC=0x7ffff7fc647d OCC=1
+Inconsistency detected by ld.so: dl-load.c: 2031: _dl_map_object: Assertion `nsid < GL(dl_nns)' failed!
+[CRASH]
+Injecting PC=0x7ffff7fdaa64 OCC=1174
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce495 OCC=21
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fce377 OCC=1
+Final sum = 100000 (expected 100000)
+[CORRECT]
+Injecting PC=0x7ffff7fd8f06 OCC=1
+
+[CRASH]
+==================== FINAL ====================
+Full results saved to /home/hyq/SDC/RealFI/scripts/injection_plan_with_result.csv
+Total Injections: 100
+SDC Count: 0
+CRASH Count: 26
+CORRECT Count: 74

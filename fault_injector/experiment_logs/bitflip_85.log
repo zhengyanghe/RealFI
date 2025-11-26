@@ -1,0 +1,59 @@
+=== Stable Bitflip Injector (No PIN_ExecuteAt Edition) ===
+[TARGET] Found ADD instruction @0x7f61817c40d1
+Instruction at 0x7f61817c40d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f61817c40d1
+Instruction at 0x7f61817c40d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f61817c40d1
+Instruction at 0x7f61817c40d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f61817c4146
+Instruction at 0x7f61817c4146: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c4156
+Instruction at 0x7f61817c4156: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c4166
+Instruction at 0x7f61817c4166: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c4176
+Instruction at 0x7f61817c4176: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c4186
+Instruction at 0x7f61817c4186: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c4196
+Instruction at 0x7f61817c4196: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c41a6
+Instruction at 0x7f61817c41a6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c41b6
+Instruction at 0x7f61817c41b6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f61817c431d
+Instruction at 0x7f61817c431d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f61817c45ee
+Instruction at 0x7f61817c45ee: add rdi, rsi
+[TARGET] Found ADD instruction @0x7f61817c431d
+Instruction at 0x7f61817c431d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f61817c4343
+Instruction at 0x7f61817c4343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f61817c4354
+Instruction at 0x7f61817c4354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f61817c4358
+Instruction at 0x7f61817c4358: add rcx, r12
+[TARGET] Found ADD instruction @0x7f61817c4343
+Instruction at 0x7f61817c4343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f61817c4354
+Instruction at 0x7f61817c4354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f61817c4358
+Instruction at 0x7f61817c4358: add rcx, r12
+[TARGET] Found ADD instruction @0x7f61817c43a4
+Instruction at 0x7f61817c43a4: add r12, rdx
+[TARGET] Found ADD instruction @0x7f61817c43dc
+Instruction at 0x7f61817c43dc: add rax, qword ptr [rip+0x1970d]
+[TARGET] Found ADD instruction @0x7f61817c440f
+Instruction at 0x7f61817c440f: add rbx, 0x18
+[TARGET] Found ADD instruction @0x7f61817c438a
+Instruction at 0x7f61817c438a: add rbx, 0x18
+[TARGET] Found ADD instruction @0x7f61817c43a4
+Instruction at 0x7f61817c43a4: add r12, rdx
+[TARGET] Found ADD instruction @0x7f61817c4480
+Instruction at 0x7f61817c4480: add rax, qword ptr [rbx+0x10]
+[TARGET] Found ADD instruction @0x7f61817c438a
+Instruction at 0x7f61817c438a: add rbx, 0x18
+[TARGET] Found ADD instruction @0x7f61817c43a4
+Instruction at 0x7f61817c43a4: add r12, rdx
+[TARGET] Found ADD instruction @0x7f61817c43dc
+Instruction at 0x7f61817c43dc: add rax, qword ptr [rip+0x1970d]

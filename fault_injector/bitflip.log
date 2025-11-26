@@ -1,0 +1,12 @@
+=== Stable Bitflip Injector (Single Address Mode) ===
+Target Address: 0x555555555178
+==================================================
+--- TARGET INSTRUCTION FOUND ---
+Instruction at 0x555555555178: mov eax, dword ptr [rbp-0x8]
+--- TARGET INSTRUCTION FOUND ---
+Instruction at 0x555555555178: mov eax, dword ptr [rbp-0x8]
+[FLIP] bit 6: 0x2a06b550 to 0x2a06b510
+[GPR FLIP #1] Count=1 rax @0x555555555178 bit6  0x2a06b550 to 0x2a06b510
+=== Finished Successfully ===
+Total GPR flips   : 1
+Total FLAGS flips : 0
