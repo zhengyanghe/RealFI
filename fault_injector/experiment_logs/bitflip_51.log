@@ -1,5 +1,0 @@
-=== Stable Bitflip Injector (No PIN_ExecuteAt Edition) ===
-[TARGET] Found ADD instruction @0x7f0b8a86d0d1
-Instruction at 0x7f0b8a86d0d1: add rdx, 0x10
-[TARGET] Found ADD instruction @0x7f0b8a86d0d1
-Instruction at 0x7f0b8a86d0d1: add rdx, 0x10
