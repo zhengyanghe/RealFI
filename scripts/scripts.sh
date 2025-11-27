@@ -15,8 +15,8 @@ PLAN_RESULT="$ROOT/scripts/injection_plan_with_result.csv"
 
 OUTCOME="$ROOT/scripts/outcome.txt"
 
-SAMPLE_INTERVAL=100
-TOTAL_INJECTIONS=100
+SAMPLE_INTERVAL=1000
+TOTAL_INJECTIONS=1000
 
 CALC_PY="$ROOT/FSS_calculation/calculate.py"
 PLAN_PY="$ROOT/scripts/generate_injection_plan.py"
