@@ -12,11 +12,12 @@ cd /path/to/your/project/scripts
 That’s it! The script will automatically:
 
 1. Run the profiler → csv_file/stat.csv
-2. Compute FSS scores → csv_file/stat_FSS_Score.csv
-3. Generate an injection plan (TOTAL_INJECTIONS=100 by default)
-4. Perform all fault injections
-5. Classify every injection as **CORRECT / SDC / CRASH**
-6. Print a final summary
+2. Initial data processing -> csv_file/stat_incremental.csv
+3. Compute FSS scores → csv_file/stat_incremental_FSS_Score.csv
+4. Generate an injection plan (TOTAL_INJECTIONS=100 by default)
+5. Perform all fault injections
+6. Classify every injection as **CORRECT / SDC / CRASH**
+7. Print a final summary
 
 All logs and results are saved inside this scripts/ folder.
 
@@ -64,7 +65,7 @@ Bash
 EXPECTED=$($EXEC | grep -o '[0-9]\+' | tail -n 1)
 
 # During injection, we extract the same number and compare
-RESULT=$(echo "$OUTP" | grep -o '[0-9]\+' | tail -n 1)
+RESULT=$(echo "$OUTP" | grep -o '[0-9]\+' | head -n 1)
 ```
 
 If your new program has a **different way** of indicating correct execution, edit this block. Typical patterns and how to adapt them:
