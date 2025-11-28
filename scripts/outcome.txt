@@ -1,307 +1,3976 @@
 
-Injecting PC=0x7fffe438d6ef OCC=1
+Injecting PC=0x55555555516e OCC=19140
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=64990
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=98653
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=92918
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=4686
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=80374
+Final sum = 100004 (expected 100000)
+Expected: 100000, Got: 100004
+[SDC]
+Injecting PC=0x55555555516e OCC=81569
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=42604
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x7ffff7fd450c OCC=12
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fdaa7a OCC=209
+Injecting PC=0x55555555516e OCC=2603
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd4b00 OCC=16
+Injecting PC=0x55555555516e OCC=9541
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf107 OCC=4
+Injecting PC=0x55555555516e OCC=24653
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce7d2 OCC=27
+Injecting PC=0x55555555516e OCC=34383
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce4ae OCC=157
+Injecting PC=0x55555555516e OCC=67331
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fdaa02 OCC=14
+Injecting PC=0x55555555516e OCC=75640
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd454e OCC=56
+Injecting PC=0x55555555516e OCC=83451
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce520 OCC=35
+Injecting PC=0x7fffe43476db OCC=1
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf284 OCC=5
+Injecting PC=0x55555555516e OCC=88546
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fdaa17 OCC=39
+Injecting PC=0x55555555516e OCC=83665
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd7486 OCC=114
+Injecting PC=0x7ffff7feb62d OCC=13
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=93036
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=99470
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95981
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=94943
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=31353
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=31230
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=77806
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=7862
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=20413
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=66664
+Final sum = 165536 (expected 100000)
+Expected: 100000, Got: 165536
+[SDC]
+Injecting PC=0x7ffff7fc823f OCC=29
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fee21b OCC=8
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=92395
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x55555555516e OCC=62100
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x55555555516e OCC=20831
+Final sum = 100256 (expected 100000)
+Expected: 100000, Got: 100256
+[SDC]
+Injecting PC=0x55555555516e OCC=96604
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=40693
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=22131
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=3485
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=25352
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce4ba OCC=3
 
 [CRASH]
-Injecting PC=0x7ffff7fe5835 OCC=1
+Injecting PC=0x55555555516e OCC=17331
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=67709
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=99601
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x7ffff7fce268 OCC=46
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf258 OCC=4
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4334 OCC=452
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=24310
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x55555555516e OCC=59526
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x55555555516e OCC=63276
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x55555555516e OCC=78594
+Final sum = 99936 (expected 100000)
+Expected: 100000, Got: 99936
+[SDC]
+Injecting PC=0x55555555516e OCC=84254
+Final sum = 99936 (expected 100000)
+Expected: 100000, Got: 99936
+[SDC]
+Injecting PC=0x55555555516e OCC=15004
+Final sum = 99936 (expected 100000)
+Expected: 100000, Got: 99936
+[SDC]
+Injecting PC=0x55555555516e OCC=16980
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=20438
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=43877
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fc823f OCC=16
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=42251
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=93083
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=94381
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=69003
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=9942
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=44106
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=14639
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=22191
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=25839
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84611
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=62907
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=86141
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=11127
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=65406
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=50960
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=84166
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=24728
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=28213
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x7ffff7fdaa75 OCC=119
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd0b87 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=36899
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=16931
+Final sum = 95904 (expected 100000)
+Expected: 100000, Got: 95904
+[SDC]
+Injecting PC=0x55555555516e OCC=88553
+Final sum = 99984 (expected 100000)
+Expected: 100000, Got: 99984
+[SDC]
+Injecting PC=0x55555555516e OCC=55188
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x55555555516e OCC=57071
+Final sum = 99984 (expected 100000)
+Expected: 100000, Got: 99984
+[SDC]
+Injecting PC=0x55555555516e OCC=45766
+Final sum = 99984 (expected 100000)
+Expected: 100000, Got: 99984
+[SDC]
+Injecting PC=0x7fffe43a3a7d OCC=108
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=74396
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=41963
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=11813
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=79505
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=41706
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd6662 OCC=4
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=99205
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=5044
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=72976
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=11880
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=92005
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=90612
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=45415
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=71037
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa6f OCC=2131
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=77256
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=55586
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=87156
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=21090
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=33717
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=36881
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=38503
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=75005
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=11518
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=76975
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=23300
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=69742
+Final sum = 100004 (expected 100000)
+Expected: 100000, Got: 100004
+[SDC]
+Injecting PC=0x55555555516e OCC=8243
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=28615
+Final sum = 100004 (expected 100000)
+Expected: 100000, Got: 100004
+[SDC]
+Injecting PC=0x55555555516e OCC=5275
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x7ffff7fd4328 OCC=117
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf107 OCC=6
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=91941
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=61298
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa71 OCC=1845
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=17056
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=97944
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95648
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=75853
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=77036
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=79425
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=86276
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf1fc OCC=40
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=57455
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fea254 OCC=15
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce3f9 OCC=8
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd966a OCC=21
 
 [CRASH]
-Injecting PC=0x7ffff7fd48ee OCC=1
+Injecting PC=0x55555555516e OCC=37025
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=82982
+Final sum = 165536 (expected 100000)
+Expected: 100000, Got: 165536
+[SDC]
+Injecting PC=0x55555555516e OCC=4754
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=46582
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=5654
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=59996
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x7ffff7fd966a OCC=21
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=80418
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x55555555516e OCC=27552
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x55555555516e OCC=46622
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x55555555516e OCC=23464
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x55555555516e OCC=29752
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x7ffff7fcf28e OCC=33
 
 [CRASH]
-Injecting PC=0x7ffff7fc6495 OCC=2
+Injecting PC=0x55555555516e OCC=45823
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf128 OCC=13
-/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: free, version GLIBC_2.2.5
+Injecting PC=0x55555555516e OCC=21345
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=87925
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=48286
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fe6779 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=77277
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=94104
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce7cc OCC=38
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4343 OCC=59
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=55698
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x55555555516e OCC=89161
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x55555555516e OCC=11644
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x55555555516e OCC=87889
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x55555555516e OCC=98804
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x55555555516e OCC=19006
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=66834
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=34576
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=4053
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=35436
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=73205
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=45577
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=73911
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=3
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=56713
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=45179
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84931
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=42525
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce408 OCC=5
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=12266
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=52843
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x7ffff7fdaa71 OCC=2492
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa78 OCC=830
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=36889
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=80295
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=41481
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=66343
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x7ffff7fce79a OCC=75
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=12809
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=80659
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=12405
+Final sum = 99992 (expected 100000)
+Expected: 100000, Got: 99992
+[SDC]
+Injecting PC=0x55555555516e OCC=32954
+Final sum = 100008 (expected 100000)
+Expected: 100000, Got: 100008
+[SDC]
+Injecting PC=0x7ffff7fcf28e OCC=55
+/home/hyq/SDC/RealFI/simple_test: error while loading shared libraries: /lib/x86_64-linux-gnu/libc.so.6: unexpected reloc type 0x000c51a0
 [CRASH]
-Injecting PC=0x7ffff7fcc5ad OCC=8
+Injecting PC=0x55555555516e OCC=20783
+Final sum = 100008 (expected 100000)
+Expected: 100000, Got: 100008
+[SDC]
+Injecting PC=0x55555555516e OCC=23480
+Final sum = 99992 (expected 100000)
+Expected: 100000, Got: 99992
+[SDC]
+Injecting PC=0x55555555516e OCC=91111
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fda9c1 OCC=37
+Injecting PC=0x55555555516e OCC=2450
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce2ba OCC=4
+Injecting PC=0x7ffff7fcf107 OCC=23
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fe5339 OCC=1
+Injecting PC=0x55555555516e OCC=45276
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fea2e1 OCC=2
+Injecting PC=0x55555555516e OCC=30586
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd9436 OCC=22
+Injecting PC=0x7ffff7fce306 OCC=16
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fdb408 OCC=1
+Injecting PC=0x55555555516e OCC=20667
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fe2510 OCC=12
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fe56f0 OCC=1
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fd5ebe OCC=1
-Inconsistency detected by ld.so: dl-runtime.c: 63: _dl_fixup: Assertion `ELFW(R_TYPE)(reloc->r_info) == ELF_MACHINE_JMP_SLOT' failed!
-[CRASH]
-Injecting PC=0x7ffff7fce7c8 OCC=11
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fd4532 OCC=32
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fea2b9 OCC=27
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fcf203 OCC=3
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fcf298 OCC=27
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fd48ee OCC=1
+Injecting PC=0x7ffff7fdaa5c OCC=1627
 
 [CRASH]
-Injecting PC=0x7ffff7fcf26f OCC=2
+Injecting PC=0x55555555516e OCC=47521
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x555555555174 OCC=86767
+Injecting PC=0x55555555516e OCC=45963
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fdc7db OCC=1
+Injecting PC=0x55555555516e OCC=17158
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf260 OCC=72
+Injecting PC=0x55555555516e OCC=31690
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd944d OCC=7
+Injecting PC=0x55555555516e OCC=58446
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd443a OCC=27
+Injecting PC=0x55555555516e OCC=81515
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf21d OCC=55
-Final sum = 100000 (expected 100000)
-[CORRECT]
-Injecting PC=0x7ffff7fcf296 OCC=25
+Injecting PC=0x55555555516e OCC=46259
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=82882
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=28904
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x7ffff7fce4b6 OCC=12
 
 [CRASH]
-Injecting PC=0x7ffff7fe5adc OCC=1
+Injecting PC=0x55555555516e OCC=96456
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=93995
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=23588
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x7ffff7fde17a OCC=1
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fda8b5 OCC=3
+Injecting PC=0x55555555516e OCC=64683
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=8933
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=27267
+Final sum = 100002 (expected 100000)
+Expected: 100000, Got: 100002
+[SDC]
+Injecting PC=0x55555555516e OCC=2596
+Final sum = 100002 (expected 100000)
+Expected: 100000, Got: 100002
+[SDC]
+Injecting PC=0x55555555516e OCC=59718
+Final sum = 99998 (expected 100000)
+Expected: 100000, Got: 99998
+[SDC]
+Injecting PC=0x7ffff7fee21b OCC=4
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce4e1 OCC=51
+Injecting PC=0x55555555516e OCC=85342
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7fffe43aa33b OCC=1
+Injecting PC=0x55555555516e OCC=45270
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf1fc OCC=5
+Injecting PC=0x55555555516e OCC=78825
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd4443 OCC=50
+Injecting PC=0x7ffff7fdaa7e OCC=201
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf294 OCC=36
+Injecting PC=0x55555555516e OCC=94055
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fda8c0 OCC=1
+Injecting PC=0x55555555516e OCC=1420
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce727 OCC=44
+Injecting PC=0x55555555516e OCC=15925
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcefde OCC=61
-/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: __key_decryptsession_pk_LOCAL, version GLIBC_2.2.5
-[CRASH]
-Injecting PC=0x7ffff7fd9647 OCC=17
+Injecting PC=0x55555555516e OCC=1714
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd5feb OCC=1
+Injecting PC=0x55555555516e OCC=80128
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fe6a51 OCC=1
+Injecting PC=0x55555555516e OCC=4035
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa60 OCC=457
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=81739
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=2754
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=96121
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd432a OCC=35
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa64 OCC=2483
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=26489
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=5429
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=70410
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x7ffff7fdaa6a OCC=854
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=67018
+Final sum = 165536 (expected 100000)
+Expected: 100000, Got: 165536
+[SDC]
+Injecting PC=0x55555555516e OCC=58301
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=6922
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=69344
+Final sum = 100128 (expected 100000)
+Expected: 100000, Got: 100128
+[SDC]
+Injecting PC=0x55555555516e OCC=4397
+Final sum = 99872 (expected 100000)
+Expected: 100000, Got: 99872
+[SDC]
+Injecting PC=0x55555555516e OCC=52881
+Final sum = 100128 (expected 100000)
+Expected: 100000, Got: 100128
+[SDC]
+Injecting PC=0x55555555516e OCC=23556
+Final sum = 99872 (expected 100000)
+Expected: 100000, Got: 99872
+[SDC]
+Injecting PC=0x55555555516e OCC=53496
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=17673
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=92410
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=15627
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=94760
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=18239
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=64495
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=24224
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=14713
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=28609
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=31505
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=550
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=75025
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=5333
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=90354
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd432a OCC=166
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=45340
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x7ffff7fda9dd OCC=492
 
 [CRASH]
-Injecting PC=0x7ffff7fce4fc OCC=122
+Injecting PC=0x55555555516e OCC=71321
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=98687
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x7ffff7fdaa71 OCC=946
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fda9eb OCC=13
+Injecting PC=0x55555555516e OCC=71876
+Final sum = 83616 (expected 100000)
+Expected: 100000, Got: 83616
+[SDC]
+Injecting PC=0x55555555516e OCC=96643
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x55555555516e OCC=2466
+Final sum = 83616 (expected 100000)
+Expected: 100000, Got: 83616
+[SDC]
+Injecting PC=0x55555555516e OCC=2620
+Final sum = 83616 (expected 100000)
+Expected: 100000, Got: 83616
+[SDC]
+Injecting PC=0x7ffff7fdaa71 OCC=1673
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fea2b1 OCC=11
+Injecting PC=0x55555555516e OCC=56058
+Final sum = 100032 (expected 100000)
+Expected: 100000, Got: 100032
+[SDC]
+Injecting PC=0x55555555516e OCC=91071
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=65296
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84953
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=81369
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=21258
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa64 OCC=2483
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=12403
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=90201
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=92850
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=65452
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=80201
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=50403
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x7ffff7fcf167 OCC=23
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=63797
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=11177
+Final sum = 102048 (expected 100000)
+Expected: 100000, Got: 102048
+[SDC]
+Injecting PC=0x7ffff7fcf140 OCC=1001
+/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: argp_program_version_hook, version GLIBC_2.2.5
+[CRASH]
+Injecting PC=0x55555555516e OCC=66275
+Final sum = 97952 (expected 100000)
+Expected: 100000, Got: 97952
+[SDC]
+Injecting PC=0x55555555516e OCC=44007
+Final sum = 102048 (expected 100000)
+Expected: 100000, Got: 102048
+[SDC]
+Injecting PC=0x55555555516e OCC=89909
+Final sum = 99992 (expected 100000)
+Expected: 100000, Got: 99992
+[SDC]
+Injecting PC=0x7ffff7fd4321 OCC=114
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=46405
+Final sum = 99992 (expected 100000)
+Expected: 100000, Got: 99992
+[SDC]
+Injecting PC=0x55555555516e OCC=89492
+Final sum = 99992 (expected 100000)
+Expected: 100000, Got: 99992
+[SDC]
+Injecting PC=0x55555555516e OCC=32598
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=32979
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=3486
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=42244
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=61219
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=87439
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=88845
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=20207
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=79741
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=91897
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=85323
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa6a OCC=327
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=50559
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=94980
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=73181
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=52337
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=74691
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x7ffff7fdaa78 OCC=66
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=30986
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=94951
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=90864
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=97412
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=56648
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=37578
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=87278
+Final sum = 99488 (expected 100000)
+Expected: 100000, Got: 99488
+[SDC]
+Injecting PC=0x55555555516e OCC=68422
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=66203
+Final sum = 100002 (expected 100000)
+Expected: 100000, Got: 100002
+[SDC]
+Injecting PC=0x55555555516e OCC=89279
+Final sum = 100002 (expected 100000)
+Expected: 100000, Got: 100002
+[SDC]
+Injecting PC=0x55555555516e OCC=53339
+Final sum = 100002 (expected 100000)
+Expected: 100000, Got: 100002
+[SDC]
+Injecting PC=0x55555555516e OCC=18548
+Final sum = 100002 (expected 100000)
+Expected: 100000, Got: 100002
+[SDC]
+Injecting PC=0x7ffff7fda9cc OCC=30
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=63041
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fda9dd OCC=300
 
 [CRASH]
-Injecting PC=0x7ffff7fce2e2 OCC=31
+Injecting PC=0x55555555516e OCC=19013
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce791 OCC=115
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4340 OCC=481
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf27a OCC=9
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce78d OCC=6
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=52309
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=65955
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4346 OCC=80
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fda9e1 OCC=688
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=32241
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf128 OCC=14
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84529
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=38423
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=2900
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=74567
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x7ffff7fdaa78 OCC=209
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=22237
+Final sum = 67232 (expected 100000)
+Expected: 100000, Got: 67232
+[SDC]
+Injecting PC=0x55555555516e OCC=97485
+Final sum = 67232 (expected 100000)
+Expected: 100000, Got: 67232
+[SDC]
+Injecting PC=0x55555555516e OCC=75305
+Final sum = 67232 (expected 100000)
+Expected: 100000, Got: 67232
+[SDC]
+Injecting PC=0x55555555516e OCC=80843
+Final sum = 67232 (expected 100000)
+Expected: 100000, Got: 67232
+[SDC]
+Injecting PC=0x55555555516e OCC=32152
+Final sum = 100128 (expected 100000)
+Expected: 100000, Got: 100128
+[SDC]
+Injecting PC=0x55555555516e OCC=73020
+Final sum = 99872 (expected 100000)
+Expected: 100000, Got: 99872
+[SDC]
+Injecting PC=0x55555555516e OCC=66377
+Final sum = 99872 (expected 100000)
+Expected: 100000, Got: 99872
+[SDC]
+Injecting PC=0x7ffff7fc6d1f OCC=4
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=50157
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=37113
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=78556
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=55342
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=64756
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=76909
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=83411
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf1e3 OCC=5
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=90562
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=89886
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=53929
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=7153
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=75082
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=32455
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=13809
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=17823
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x55555555516e OCC=93659
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x55555555516e OCC=86369
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x55555555516e OCC=85327
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x55555555516e OCC=58227
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=71647
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=36145
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=14774
+Final sum = 108192 (expected 100000)
+Expected: 100000, Got: 108192
+[SDC]
+Injecting PC=0x55555555516e OCC=15872
+Final sum = 108192 (expected 100000)
+Expected: 100000, Got: 108192
+[SDC]
+Injecting PC=0x55555555516e OCC=55733
+Final sum = 91808 (expected 100000)
+Expected: 100000, Got: 91808
+[SDC]
+Injecting PC=0x55555555516e OCC=39591
+Final sum = 91808 (expected 100000)
+Expected: 100000, Got: 91808
+[SDC]
+Injecting PC=0x55555555516e OCC=28846
+Final sum = 100032 (expected 100000)
+Expected: 100000, Got: 100032
+[SDC]
+Injecting PC=0x7ffff7fce4ba OCC=9
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=67299
+Final sum = 100032 (expected 100000)
+Expected: 100000, Got: 100032
+[SDC]
+Injecting PC=0x55555555516e OCC=30609
+Final sum = 99968 (expected 100000)
+Expected: 100000, Got: 99968
+[SDC]
+Injecting PC=0x55555555516e OCC=16346
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=44212
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=34139
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf27a OCC=10
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=27790
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=26486
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=6717
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=18646
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=33584
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce268 OCC=16
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa6a OCC=217
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4321 OCC=272
 
 [CRASH]
-Injecting PC=0x7ffff7fcefd9 OCC=7
+Injecting PC=0x7ffff7fda9d0 OCC=200
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce439 OCC=20
+Injecting PC=0x7ffff7fd450c OCC=17
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd4340 OCC=841
+Injecting PC=0x55555555516e OCC=93532
+Final sum = 102048 (expected 100000)
+Expected: 100000, Got: 102048
+[SDC]
+Injecting PC=0x55555555516e OCC=10158
+Final sum = 100008 (expected 100000)
+Expected: 100000, Got: 100008
+[SDC]
+Injecting PC=0x55555555516e OCC=27694
+Final sum = 100008 (expected 100000)
+Expected: 100000, Got: 100008
+[SDC]
+Injecting PC=0x7ffff7fd4050 OCC=29
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fea233 OCC=27
-C: [tid:213825] Tool (or Pin) caused signal 5 at PC 0x7ffff789bb63
+Injecting PC=0x55555555516e OCC=55509
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=12725
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=70254
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=87099
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=68381
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4328 OCC=530
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=75659
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=79690
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa3b OCC=2
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=36985
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=92129
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=35251
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=66734
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=13673
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf156 OCC=2
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=89704
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=48682
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x7ffff7fce794 OCC=76
+/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: _IO_2_1_stdin_, version GLIBC_2.2.5
 [CRASH]
-Injecting PC=0x7ffff7fdaa02 OCC=21
+Injecting PC=0x7ffff7fce523 OCC=42
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fe6153 OCC=1
+Injecting PC=0x55555555516e OCC=12648
+Final sum = -31072 (expected 100000)
+Expected: 100000, Got: 31072
+[SDC]
+Injecting PC=0x7ffff7fdaa71 OCC=2426
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=65614
+Final sum = -31072 (expected 100000)
+Expected: 100000, Got: 31072
+[SDC]
+Injecting PC=0x55555555516e OCC=5056
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=87006
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=91631
+Final sum = 99488 (expected 100000)
+Expected: 100000, Got: 99488
+[SDC]
+Injecting PC=0x7ffff7fd4318 OCC=409
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=66937
+Final sum = 99998 (expected 100000)
+Expected: 100000, Got: 99998
+[SDC]
+Injecting PC=0x7ffff7fd48c8 OCC=2
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=60243
+Final sum = 100002 (expected 100000)
+Expected: 100000, Got: 100002
+[SDC]
+Injecting PC=0x55555555516e OCC=22266
+Final sum = 99998 (expected 100000)
+Expected: 100000, Got: 99998
+[SDC]
+Injecting PC=0x55555555516e OCC=83563
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=76031
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=32219
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=29809
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=32821
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa3b OCC=8
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=18759
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=44309
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=17168
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=92278
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd48c8 OCC=6
 
 [CRASH]
-Injecting PC=0x7ffff7fd9458 OCC=2
+Injecting PC=0x55555555516e OCC=28187
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84622
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=99369
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=54141
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=70393
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=76133
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=62997
+Final sum = 132768 (expected 100000)
+Expected: 100000, Got: 132768
+[SDC]
+Injecting PC=0x7ffff7fde17a OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fe6898 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=10941
+Final sum = 67232 (expected 100000)
+Expected: 100000, Got: 67232
+[SDC]
+Injecting PC=0x55555555516e OCC=41560
+Final sum = 99872 (expected 100000)
+Expected: 100000, Got: 99872
+[SDC]
+Injecting PC=0x55555555516e OCC=17580
+Final sum = 100128 (expected 100000)
+Expected: 100000, Got: 100128
+[SDC]
+Injecting PC=0x55555555516e OCC=28708
+Final sum = 99872 (expected 100000)
+Expected: 100000, Got: 99872
+[SDC]
+Injecting PC=0x55555555516e OCC=52225
+Final sum = 99872 (expected 100000)
+Expected: 100000, Got: 99872
+[SDC]
+Injecting PC=0x55555555516e OCC=30261
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=48475
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa6a OCC=295
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fee21b OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=49295
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=34552
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=86475
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=2427
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=6222
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=53430
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=6083
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=2984
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=64241
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce4ba OCC=33
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa5c OCC=2231
 
 [CRASH]
-Injecting PC=0x7ffff7fce7e9 OCC=66
+Injecting PC=0x55555555516e OCC=20525
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=6478
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=59400
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=86534
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x7ffff7fd441b OCC=40
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fe0c62 OCC=2
+Injecting PC=0x55555555516e OCC=56609
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=95232
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=52687
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=25761
+Final sum = 108192 (expected 100000)
+Expected: 100000, Got: 108192
+[SDC]
+Injecting PC=0x55555555516e OCC=4191
+Final sum = 91808 (expected 100000)
+Expected: 100000, Got: 91808
+[SDC]
+Injecting PC=0x55555555516e OCC=30062
+Final sum = 108192 (expected 100000)
+Expected: 100000, Got: 108192
+[SDC]
+Injecting PC=0x55555555516e OCC=43454
+Final sum = 100032 (expected 100000)
+Expected: 100000, Got: 100032
+[SDC]
+Injecting PC=0x55555555516e OCC=80308
+Final sum = 100032 (expected 100000)
+Expected: 100000, Got: 100032
+[SDC]
+Injecting PC=0x7ffff7fd449a OCC=6
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=66720
+Final sum = 99968 (expected 100000)
+Expected: 100000, Got: 99968
+[SDC]
+Injecting PC=0x55555555516e OCC=29625
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=69794
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fda9cc OCC=14
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf140 OCC=1079
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf27a OCC=5
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf28e OCC=27
 
 [CRASH]
-Injecting PC=0x7ffff7fd49c4 OCC=3
+Injecting PC=0x55555555516e OCC=47591
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce6f9 OCC=14
+Injecting PC=0x55555555516e OCC=44335
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd928d OCC=1
+Injecting PC=0x55555555516e OCC=2236
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd4407 OCC=63
+Injecting PC=0x55555555516e OCC=54767
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd4435 OCC=48
+Injecting PC=0x7fffe43a6244 OCC=1
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce543 OCC=99
+Injecting PC=0x55555555516e OCC=23191
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcf0eb OCC=79
+Injecting PC=0x55555555516e OCC=59425
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fe5b5b OCC=2
+Injecting PC=0x55555555516e OCC=32920
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd5ebe OCC=1
-Inconsistency detected by ld.so: dl-runtime.c: 63: _dl_fixup: Assertion `ELFW(R_TYPE)(reloc->r_info) == ELF_MACHINE_JMP_SLOT' failed!
+Injecting PC=0x7ffff7fcf1b3 OCC=63
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=50874
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=91131
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=9909
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=47608
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=5702
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=94550
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=89572
+Final sum = 102048 (expected 100000)
+Expected: 100000, Got: 102048
+[SDC]
+Injecting PC=0x55555555516e OCC=60338
+Final sum = 102048 (expected 100000)
+Expected: 100000, Got: 102048
+[SDC]
+Injecting PC=0x55555555516e OCC=89909
+Final sum = 102048 (expected 100000)
+Expected: 100000, Got: 102048
+[SDC]
+Injecting PC=0x55555555516e OCC=34779
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=31382
+Final sum = 100004 (expected 100000)
+Expected: 100000, Got: 100004
+[SDC]
+Injecting PC=0x55555555516e OCC=24260
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=70350
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd0425 OCC=12
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=41707
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd445a OCC=32
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=45420
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=14498
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=43352
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=71125
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=15512
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x55555555516e OCC=25487
+Final sum = -33454432 (expected 100000)
+Expected: 100000, Got: 33454432
+[SDC]
+Injecting PC=0x7ffff7fcf128 OCC=17
+/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: __ctype32_toupper, version GLIBC_2.2.5
 [CRASH]
-Injecting PC=0x7ffff7fe122d OCC=8
+Injecting PC=0x55555555516e OCC=83722
+Final sum = -31072 (expected 100000)
+Expected: 100000, Got: 31072
+[SDC]
+Injecting PC=0x55555555516e OCC=70795
+Final sum = -31072 (expected 100000)
+Expected: 100000, Got: 31072
+[SDC]
+Injecting PC=0x55555555516e OCC=5331
+Final sum = -31072 (expected 100000)
+Expected: 100000, Got: 31072
+[SDC]
+Injecting PC=0x55555555516e OCC=53942
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=50686
+Final sum = 99488 (expected 100000)
+Expected: 100000, Got: 99488
+[SDC]
+Injecting PC=0x55555555516e OCC=17858
+Final sum = 99488 (expected 100000)
+Expected: 100000, Got: 99488
+[SDC]
+Injecting PC=0x55555555516e OCC=37961
+Final sum = 99488 (expected 100000)
+Expected: 100000, Got: 99488
+[SDC]
+Injecting PC=0x55555555516e OCC=49768
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x55555555516e OCC=40699
+Final sum = 99999 (expected 100000)
+Expected: 100000, Got: 99999
+[SDC]
+Injecting PC=0x55555555516e OCC=46801
+Final sum = 99999 (expected 100000)
+Expected: 100000, Got: 99999
+[SDC]
+Injecting PC=0x55555555516e OCC=94064
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7fffe4415da0 OCC=1
+Injecting PC=0x55555555516e OCC=90427
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fe58fa OCC=1
+Injecting PC=0x55555555516e OCC=24617
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=49347
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd431c OCC=174
+Inconsistency detected by ld.so: ../sysdeps/x86_64/dl-machine.h: 534: elf_machine_rela_relative: Assertion `ELFW(R_TYPE) (reloc->r_info) == R_X86_64_RELATIVE' failed!
+[CRASH]
+Injecting PC=0x55555555516e OCC=86837
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=11645
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=27872
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=17701
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=57680
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=32592
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fda9e3 OCC=669
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=93682
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=84354
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=43552
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x7ffff7fd4334 OCC=57
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=85902
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=108
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x7ffff7fce512 OCC=43
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95285
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=44113
+Final sum = 132768 (expected 100000)
+Expected: 100000, Got: 132768
+[SDC]
+Injecting PC=0x55555555516e OCC=98699
+Final sum = 132768 (expected 100000)
+Expected: 100000, Got: 132768
+[SDC]
+Injecting PC=0x55555555516e OCC=79716
+Final sum = 67232 (expected 100000)
+Expected: 100000, Got: 67232
+[SDC]
+Injecting PC=0x55555555516e OCC=98069
+Final sum = 67232 (expected 100000)
+Expected: 100000, Got: 67232
+[SDC]
+Injecting PC=0x55555555516e OCC=66108
+Final sum = 99936 (expected 100000)
+Expected: 100000, Got: 99936
+[SDC]
+Injecting PC=0x55555555516e OCC=21319
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x55555555516e OCC=95203
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x7ffff7fd450c OCC=15
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=43994
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=81412
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=35886
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=9059
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=13944
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa78 OCC=658
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd48c8 OCC=4
 
 [CRASH]
-Injecting PC=0x7ffff7fce2e9 OCC=14
+Injecting PC=0x55555555516e OCC=28922
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd9354 OCC=1
+Injecting PC=0x7ffff7fce408 OCC=8
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce2da OCC=7
+Injecting PC=0x55555555516e OCC=70973
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=21507
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=30073
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=49479
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=2589
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=93202
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=21086
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x7ffff7fce4b6 OCC=51
 
 [CRASH]
-Injecting PC=0x7ffff7fce260 OCC=55
+Injecting PC=0x55555555516e OCC=94150
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=18827
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=98003
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x7ffff7fda9e3 OCC=223
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa7e OCC=70
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd966a OCC=35
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fda9e3 OCC=662
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=28242
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x7ffff7fcf128 OCC=19
+/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: getdate_err, version GLIBC_2.2.5
+[CRASH]
+Injecting PC=0x55555555516e OCC=91264
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x55555555516e OCC=8001
+Final sum = 99984 (expected 100000)
+Expected: 100000, Got: 99984
+[SDC]
+Injecting PC=0x55555555516e OCC=82392
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x55555555516e OCC=43952
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce505 OCC=30
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=5224
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf128 OCC=7
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=62210
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=8995
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95405
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=87446
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fda9dd OCC=114
 
 [CRASH]
-Injecting PC=0x7ffff7fedfb7 OCC=10
+Injecting PC=0x55555555516e OCC=13312
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd00bf OCC=1
+Injecting PC=0x55555555516e OCC=31951
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce75d OCC=30
+Injecting PC=0x55555555516e OCC=61124
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=44073
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=37635
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=2720
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=24215
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=62223
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x7ffff7fdaa75 OCC=36
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=23499
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=10090
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=98282
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=16004
+Final sum = -424288 (expected 100000)
+Expected: 100000, Got: 424288
+[SDC]
+Injecting PC=0x55555555516e OCC=44164
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=86394
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=36430
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=2321
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=87901
+Final sum = 100004 (expected 100000)
+Expected: 100000, Got: 100004
+[SDC]
+Injecting PC=0x55555555516e OCC=96864
+Final sum = 100004 (expected 100000)
+Expected: 100000, Got: 100004
+[SDC]
+Injecting PC=0x7ffff7fce454 OCC=16
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84146
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=86035
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=55105
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=62681
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=3247
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf151 OCC=144
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=14866
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=97403
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=35980
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=75546
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=16125
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4340 OCC=456
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=63322
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=79505
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x7fffe4362752 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa5c OCC=1386
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=18888
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x55555555516e OCC=27096
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x55555555516e OCC=26040
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x7fffe43a3a7d OCC=67
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=25791
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84471
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=37998
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=39563
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=89913
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=38372
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=61431
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=75533
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=722
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=38348
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=66431
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=48429
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=62916
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=22745
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=25037
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=39866
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=49188
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=82984
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=45590
+Final sum = -8288608 (expected 100000)
+Expected: 100000, Got: 8288608
+[SDC]
+Injecting PC=0x55555555516e OCC=75074
+Final sum = 83616 (expected 100000)
+Expected: 100000, Got: 83616
+[SDC]
+Injecting PC=0x55555555516e OCC=84406
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x7ffff7fdaa64 OCC=1828
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=61218
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x55555555516e OCC=86528
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x55555555516e OCC=12235
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x55555555516e OCC=51508
+Final sum = 99936 (expected 100000)
+Expected: 100000, Got: 99936
+[SDC]
+Injecting PC=0x55555555516e OCC=99844
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7fffe4362752 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=98435
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95534
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=34471
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=76127
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=67880
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=44795
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=77205
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce4ba OCC=30
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=78969
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=53237
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=63175
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=5050
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa64 OCC=1494
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=48014
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=65435
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=43965
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=89941
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=46241
+Final sum = -536770912 (expected 100000)
+Expected: 100000, Got: 536770912
+[SDC]
+Injecting PC=0x55555555516e OCC=96114
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=2046
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=50900
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=49897
+Final sum = -1997152 (expected 100000)
+Expected: 100000, Got: 1997152
+[SDC]
+Injecting PC=0x55555555516e OCC=6235
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=42624
+Final sum = 95904 (expected 100000)
+Expected: 100000, Got: 95904
+[SDC]
+Injecting PC=0x55555555516e OCC=89763
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=80111
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=39813
+Final sum = 99984 (expected 100000)
+Expected: 100000, Got: 99984
+[SDC]
+Injecting PC=0x55555555516e OCC=89212
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x55555555516e OCC=85866
+Final sum = 99984 (expected 100000)
+Expected: 100000, Got: 99984
+[SDC]
+Injecting PC=0x55555555516e OCC=14720
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x7ffff7fd6662 OCC=3
 
 [CRASH]
-Injecting PC=0x7ffff7fd43ea OCC=13
+Injecting PC=0x7ffff7fdaa78 OCC=940
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd43a8 OCC=43
-/home/hyq/SDC/RealFI/simple_test: error while loading shared libraries: /lib/x86_64-linux-gnu/libc.so.6: unexpected reloc type 0x00080006
+Injecting PC=0x55555555516e OCC=30378
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=16720
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=83311
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd441b OCC=39
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=93783
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=55915
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4511 OCC=19
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=41890
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=75071
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=37546
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7fffe43a3a7d OCC=19
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=93310
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=99847
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=15025
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=19558
+Final sum = -134117728 (expected 100000)
+Expected: 100000, Got: 134117728
+[SDC]
+Injecting PC=0x55555555516e OCC=19312
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=52778
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=9965
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=45000
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=53199
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=71624
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x7ffff7fd4339 OCC=88
+Inconsistency detected by ld.so: ../sysdeps/x86_64/dl-machine.h: 534: elf_machine_rela_relative: Assertion `ELFW(R_TYPE) (reloc->r_info) == R_X86_64_RELATIVE' failed!
 [CRASH]
-Injecting PC=0x7ffff7fce80b OCC=2
+Injecting PC=0x55555555516e OCC=86329
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x7ffff7fd4511 OCC=6
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fcefde OCC=61
-/home/hyq/SDC/RealFI/simple_test: symbol lookup error: /lib/x86_64-linux-gnu/libc.so.6: undefined symbol: __key_decryptsession_pk_LOCAL, version GLIBC_2.2.5
-[CRASH]
-Injecting PC=0x7ffff7fe3d64 OCC=1
+Injecting PC=0x55555555516e OCC=22874
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=15667
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=84796
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd3f56 OCC=1
-/home/hyq/SDC/RealFI/simple_test: error while loading shared libraries: /lib/x86_64-linux-gnu/libc.so.6: unexpected PLT reloc type 0x00
-[CRASH]
-Injecting PC=0x7ffff7fd3f81 OCC=2
+Injecting PC=0x55555555516e OCC=60140
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce74d OCC=20
+Injecting PC=0x55555555516e OCC=20989
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce4e5 OCC=16
+Injecting PC=0x55555555516e OCC=45544
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fee1e1 OCC=5
+Injecting PC=0x55555555516e OCC=5599
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=8405
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=21422
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=30227
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=19005
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fee21b OCC=12
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fde17a OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=80648
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=11907
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=76486
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa5c OCC=1411
 
 [CRASH]
-Injecting PC=0x7ffff7fc647d OCC=1
-Inconsistency detected by ld.so: dl-load.c: 2031: _dl_map_object: Assertion `nsid < GL(dl_nns)' failed!
-[CRASH]
-Injecting PC=0x7ffff7fdaa64 OCC=1174
+Injecting PC=0x55555555516e OCC=7241
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=6227
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x7ffff7fce7cc OCC=62
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce495 OCC=21
+Injecting PC=0x7ffff7fd4443 OCC=27
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fce377 OCC=1
+Injecting PC=0x55555555516e OCC=94142
+Final sum = 165536 (expected 100000)
+Expected: 100000, Got: 165536
+[SDC]
+Injecting PC=0x55555555516e OCC=20915
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=30349
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=80699
+Final sum = 100256 (expected 100000)
+Expected: 100000, Got: 100256
+[SDC]
+Injecting PC=0x7ffff7fda9d5 OCC=114
 Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
 [CORRECT]
-Injecting PC=0x7ffff7fd8f06 OCC=1
+Injecting PC=0x55555555516e OCC=4855
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x55555555516e OCC=2080
+Final sum = 100001 (expected 100000)
+Expected: 100000, Got: 100001
+[SDC]
+Injecting PC=0x55555555516e OCC=88705
+Final sum = 99999 (expected 100000)
+Expected: 100000, Got: 99999
+[SDC]
+Injecting PC=0x55555555516e OCC=54647
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=85397
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=44219
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95387
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=48265
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x55555555516e OCC=51546
+Final sum = -2147383648 (expected 100000)
+Expected: 100000, Got: 2147383648
+[SDC]
+Injecting PC=0x7ffff7fd4343 OCC=207
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=86406
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=70416
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=99368
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=61097
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=43725
+Final sum = 83616 (expected 100000)
+Expected: 100000, Got: 83616
+[SDC]
+Injecting PC=0x55555555516e OCC=32284
+Final sum = 116384 (expected 100000)
+Expected: 100000, Got: 116384
+[SDC]
+Injecting PC=0x55555555516e OCC=42496
+Final sum = 83616 (expected 100000)
+Expected: 100000, Got: 83616
+[SDC]
+Injecting PC=0x7ffff7fd445a OCC=4
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=24467
+Final sum = 99936 (expected 100000)
+Expected: 100000, Got: 99936
+[SDC]
+Injecting PC=0x55555555516e OCC=44353
+Final sum = 100064 (expected 100000)
+Expected: 100000, Got: 100064
+[SDC]
+Injecting PC=0x7ffff7fdaa60 OCC=1212
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fe6898 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=37073
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=65186
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=69486
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=32294
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=81735
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=85357
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa71 OCC=1812
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=81443
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=81115
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=71908
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=78330
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95560
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=89449
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4318 OCC=99
 
 [CRASH]
+Injecting PC=0x55555555516e OCC=81755
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x7ffff7fce50b OCC=8
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=46926
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=20785
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=70600
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=7297
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=75478
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=31602
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=96846
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=34720
+Final sum = 95904 (expected 100000)
+Expected: 100000, Got: 95904
+[SDC]
+Injecting PC=0x55555555516e OCC=44330
+Final sum = 95904 (expected 100000)
+Expected: 100000, Got: 95904
+[SDC]
+Injecting PC=0x7ffff7fdaa71 OCC=2525
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=43295
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x55555555516e OCC=75326
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x55555555516e OCC=85853
+Final sum = 100016 (expected 100000)
+Expected: 100000, Got: 100016
+[SDC]
+Injecting PC=0x55555555516e OCC=66693
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=54969
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa6a OCC=1579
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84640
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=72243
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84263
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=41595
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7fffe4377ab1 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4321 OCC=256
+
+[CRASH]
+Injecting PC=0x55555555516e OCC=40688
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=90996
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=36336
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=48946
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=92229
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fce791 OCC=27
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=8183
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=45372
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=67064
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=49848
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=5987
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=74593
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=58713
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=3505
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=70848
+Final sum = 101024 (expected 100000)
+Expected: 100000, Got: 101024
+[SDC]
+Injecting PC=0x55555555516e OCC=2725
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=86691
+Final sum = 98976 (expected 100000)
+Expected: 100000, Got: 98976
+[SDC]
+Injecting PC=0x55555555516e OCC=69532
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=44970
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=54569
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=14834
+Final sum = 99996 (expected 100000)
+Expected: 100000, Got: 99996
+[SDC]
+Injecting PC=0x55555555516e OCC=88267
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=20547
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=22979
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=95471
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=20767
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=51677
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=83555
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=96816
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa78 OCC=16
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=51806
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=82152
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=45371
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=19162
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=88959
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=72919
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=54892
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=87980
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x7ffff7fd4321 OCC=154
+
+[CRASH]
+Injecting PC=0x55555555516e OCC=5958
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=31412
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=30376
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=35350
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x7fffe43a3a7d OCC=26
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=58892
+Final sum = 99744 (expected 100000)
+Expected: 100000, Got: 99744
+[SDC]
+Injecting PC=0x55555555516e OCC=98731
+Final sum = 100256 (expected 100000)
+Expected: 100000, Got: 100256
+[SDC]
+Injecting PC=0x55555555516e OCC=29534
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=1835
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=45691
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=58605
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=73650
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=58806
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=78013
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=11515
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa5c OCC=1994
+
+[CRASH]
+Injecting PC=0x55555555516e OCC=51076
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa60 OCC=300
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa75 OCC=67
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa5c OCC=1583
+
+[CRASH]
+Injecting PC=0x7ffff7fdc2cd OCC=13
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=30499
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x7ffff7fd0425 OCC=3
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=80990
+Final sum = 99968 (expected 100000)
+Expected: 100000, Got: 99968
+[SDC]
+Injecting PC=0x55555555516e OCC=49671
+Final sum = 99968 (expected 100000)
+Expected: 100000, Got: 99968
+[SDC]
+Injecting PC=0x55555555516e OCC=93581
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=65775
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf28e OCC=38
+
+[CRASH]
+Injecting PC=0x55555555516e OCC=18078
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=53945
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=57896
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=74012
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=51356
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=67109
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=64102
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=29333
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=52950
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=83820
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=23534
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=7014
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=7664
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=17009
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=99567
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=57708
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=70375
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=18773
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=15812
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=61565
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=81641
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x55555555516e OCC=24377
+Final sum = 104096 (expected 100000)
+Expected: 100000, Got: 104096
+[SDC]
+Injecting PC=0x7ffff7fce449 OCC=13
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=90876
+Final sum = 100008 (expected 100000)
+Expected: 100000, Got: 100008
+[SDC]
+Injecting PC=0x55555555516e OCC=56774
+Final sum = 99992 (expected 100000)
+Expected: 100000, Got: 99992
+[SDC]
+Injecting PC=0x55555555516e OCC=10780
+Final sum = 100008 (expected 100000)
+Expected: 100000, Got: 100008
+[SDC]
+Injecting PC=0x7ffff7fce505 OCC=69
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=1194
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=82217
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=97615
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=43401
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=78664
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf128 OCC=14
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=70300
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=55232
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=57167
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd441b OCC=56
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=63664
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa6f OCC=73
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=733
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=36952
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=35460
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd4321 OCC=104
+
+[CRASH]
+Injecting PC=0x55555555516e OCC=67376
+Final sum = -67008864 (expected 100000)
+Expected: 100000, Got: 67008864
+[SDC]
+Injecting PC=0x55555555516e OCC=78636
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=10529
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=69086
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=88763
+Final sum = -162144 (expected 100000)
+Expected: 100000, Got: 162144
+[SDC]
+Injecting PC=0x55555555516e OCC=34619
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=68762
+Final sum = 99488 (expected 100000)
+Expected: 100000, Got: 99488
+[SDC]
+Injecting PC=0x55555555516e OCC=3653
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=8741
+Final sum = 100512 (expected 100000)
+Expected: 100000, Got: 100512
+[SDC]
+Injecting PC=0x55555555516e OCC=99137
+Final sum = 99998 (expected 100000)
+Expected: 100000, Got: 99998
+[SDC]
+Injecting PC=0x55555555516e OCC=43645
+Final sum = 99998 (expected 100000)
+Expected: 100000, Got: 99998
+[SDC]
+Injecting PC=0x55555555516e OCC=15793
+Final sum = 99998 (expected 100000)
+Expected: 100000, Got: 99998
+[SDC]
+Injecting PC=0x7ffff7fce491 OCC=68
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=25039
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=84195
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=70393
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=21117
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=66181
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fea254 OCC=73
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=49708
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=38401
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=57531
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=22038
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=71973
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=62868
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=96244
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=96579
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=15223
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=82092
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=47050
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=58223
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=48086
+Final sum = -16677216 (expected 100000)
+Expected: 100000, Got: 16677216
+[SDC]
+Injecting PC=0x55555555516e OCC=90248
+Final sum = 165536 (expected 100000)
+Expected: 100000, Got: 165536
+[SDC]
+Injecting PC=0x55555555516e OCC=80504
+Final sum = 165536 (expected 100000)
+Expected: 100000, Got: 165536
+[SDC]
+Injecting PC=0x55555555516e OCC=22072
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=35770
+Final sum = 34464 (expected 100000)
+Expected: 100000, Got: 34464
+[SDC]
+Injecting PC=0x55555555516e OCC=62185
+Final sum = 100128 (expected 100000)
+Expected: 100000, Got: 100128
+[SDC]
+Injecting PC=0x55555555516e OCC=83425
+Final sum = 100128 (expected 100000)
+Expected: 100000, Got: 100128
+[SDC]
+Injecting PC=0x55555555516e OCC=33772
+Final sum = 100128 (expected 100000)
+Expected: 100000, Got: 100128
+[SDC]
+Injecting PC=0x55555555516e OCC=10643
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa78 OCC=531
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=43364
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fda9d5 OCC=589
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=90783
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=18071
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fc6d45 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=65800
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fdaa71 OCC=2508
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=51064
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=28441
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=43268
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=7866
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=3665
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=12453
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=71767
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x55555555516e OCC=86800
+Final sum = -1073641824 (expected 100000)
+Expected: 100000, Got: 1073641824
+[SDC]
+Injecting PC=0x7ffff7fd4339 OCC=637
+
+[CRASH]
+Injecting PC=0x55555555516e OCC=13123
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x7ffff7fd4321 OCC=180
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=94126
+Final sum = -4094304 (expected 100000)
+Expected: 100000, Got: 4094304
+[SDC]
+Injecting PC=0x55555555516e OCC=98037
+Final sum = 108192 (expected 100000)
+Expected: 100000, Got: 108192
+[SDC]
+Injecting PC=0x55555555516e OCC=4483
+Final sum = 91808 (expected 100000)
+Expected: 100000, Got: 91808
+[SDC]
+Injecting PC=0x55555555516e OCC=39239
+Final sum = 91808 (expected 100000)
+Expected: 100000, Got: 91808
+[SDC]
+Injecting PC=0x55555555516e OCC=22307
+Final sum = 100032 (expected 100000)
+Expected: 100000, Got: 100032
+[SDC]
+Injecting PC=0x55555555516e OCC=13670
+Final sum = 100032 (expected 100000)
+Expected: 100000, Got: 100032
+[SDC]
+Injecting PC=0x7ffff7fce449 OCC=6
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=20861
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=77757
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fcf21d OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=99629
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=92240
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=30772
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=1182
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=76056
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=46552
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=32795
+Final sum = -268335456 (expected 100000)
+Expected: 100000, Got: 268335456
+[SDC]
+Injecting PC=0x55555555516e OCC=35452
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=84799
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=84778
+Final sum = -948576 (expected 100000)
+Expected: 100000, Got: 948576
+[SDC]
+Injecting PC=0x55555555516e OCC=14120
+Final sum = 97952 (expected 100000)
+Expected: 100000, Got: 97952
+[SDC]
+Injecting PC=0x7ffff7fdaa6a OCC=1163
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd0b87 OCC=1
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x7ffff7fd432e OCC=121
+Final sum = 100000 (expected 100000)
+Expected: 100000, Got: 100000
+[CORRECT]
+Injecting PC=0x55555555516e OCC=30864
+Final sum = 100008 (expected 100000)
+Expected: 100000, Got: 100008
+[SDC]
 ==================== FINAL ====================
 Full results saved to /home/hyq/SDC/RealFI/scripts/injection_plan_with_result.csv
-Total Injections: 100
-SDC Count: 0
-CRASH Count: 26
-CORRECT Count: 74
+Total Injections: 1000
+SDC Count: 418
+CRASH Count: 31
+CORRECT Count: 551
