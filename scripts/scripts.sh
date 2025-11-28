@@ -9,7 +9,8 @@ FI_TOOL="$ROOT/fault_injector/obj-intel64/bit_flippers.so"
 
 CSV_DIR="$ROOT/csv_file"
 STAT="$CSV_DIR/stat.csv"
-FSS="$CSV_DIR/stat_FSS_Score.csv"
+INCREMENTAL_STAT="$CSV_DIR/stat_incremental.csv"
+FSS="$CSV_DIR/stat_incremental_FSS_Score.csv"
 PLAN="$ROOT/scripts/injection_plan.csv"
 PLAN_RESULT="$ROOT/scripts/injection_plan_with_result.csv"
 
@@ -18,6 +19,7 @@ OUTCOME="$ROOT/scripts/outcome.txt"
 SAMPLE_INTERVAL=1000
 TOTAL_INJECTIONS=1000
 
+INCREMENTAL_STAT_PY="$ROOT/FSS_calculation/context.py"
 CALC_PY="$ROOT/FSS_calculation/calculate.py"
 PLAN_PY="$ROOT/scripts/generate_injection_plan.py"
 
@@ -50,7 +52,18 @@ echo ""
 # =============================================
 echo "[Step 2] Running FSS calculation"
 
-CMD="python3 $CALC_PY $STAT"
+CMD="python3 $INCREMENTAL_STAT_PY $STAT $INCREMENTAL_STAT"
+echo "Command: $CMD"
+
+$CMD
+if [ $? -ne 0 ]; then
+    echo "ERROR: Incremental stat calculation failed."
+    exit 1
+fi
+echo "Incremental stat saved to: $INCREMENTAL_STAT"
+echo ""
+
+CMD="python3 $CALC_PY $INCREMENTAL_STAT"
 echo "Command: $CMD"
 
 $CMD
@@ -105,7 +118,8 @@ tail -n +2 "$PLAN" | while IFS=',' read -r PC OCC || [ -n "$PC" ]; do
         continue
     fi
 
-    RESULT=$(echo "$OUTP" | grep -o '[0-9]\+' | tail -n 1)
+    RESULT=$(echo "$OUTP" | grep -o '[0-9]\+' | head -n 1)
+    echo "Expected: $EXPECTED, Got: $RESULT" | tee -a "$OUTCOME"
 
     if [ "$RESULT" = "$EXPECTED" ]; then
         echo "[CORRECT]" | tee -a "$OUTCOME"
