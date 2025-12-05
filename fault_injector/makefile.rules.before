@@ -1,0 +1,23 @@
+# makefile.rules for bit_flippers
+#
+OPT := -O0                                 # 直接赋值，不是 +=
+TOOL_CXXFLAGS += -O0 -fno-inline-functions -fno-optimize-sibling-calls
+
+TEST_TOOL_ROOTS += bit_flippers
+# 使用 Pin 官方已编译的 cp-pin.exe 作为测试程序
+TESTAPP = /opt/pin/source/tools/Utils/obj-intel64/cp-pin.exe
+# 也可以使用一个简单的 Hello World 程序作为测试程序
+# TESTAPP = /path/to/your/test/program
+
+bit_flippers.test: $(OBJDIR)bit_flippers$(PINTOOL_SUFFIX) $(TESTAPP)
+	# 运行 Pin Tool，并将输出重定向到日志文件
+	$(PIN) -t $(OBJDIR)bit_flippers$(PINTOOL_SUFFIX) -- $(TESTAPP) > $(OBJDIR)bit_flippers_app.log 2>&1
+	
+	# 检查故障注入日志文件，确保工具至少运行了一次
+	$(GREP) "START" bit_flippers.log > /dev/null || (cat bit_flippers.log && exit 1)
+	
+	@echo "=== bit_flippers tool executed successfully. Check bit_flippers.log for fault injection details. ==="
+	# 打印出日志中所有进行故障注入的行
+	@$(GREP) "FAULT INJECTION" bit_flippers.log || true
+	
+	$(RM) bit_flippers.log $(OBJDIR)bit_flippers_app.log

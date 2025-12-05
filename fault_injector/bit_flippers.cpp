@@ -145,17 +145,16 @@ VOID Instruction(INS ins, VOID*)
                     break;
                 }
             }
+            // printf("begin INS_InsertCall for GPR flip at 0x%lx\n", ins_addr);
             if (REG_valid(reg_to_flip))
             {
                 if (INS_IsValidForIpointAfter(ins)) 
                 {
                     // IPOINT_AFTER：在指令执行后，其结果已经写入寄存器，此时进行翻转
                     INS_InsertCall(ins, IPOINT_AFTER, // 注意这里是 AFTER
-                        AFUNPTR(DoFlipGpr),
-                        IARG_CONTEXT,
-                        IARG_UINT32, (UINT32)reg_to_flip,
-                        IARG_ADDRINT, INS_Address(ins),
-                        IARG_END);
+                                   AFUNPTR(DoFlipGpr), IARG_CONTEXT,
+                                   IARG_UINT32, (UINT32)reg_to_flip,
+                                   IARG_ADDRINT, INS_Address(ins), IARG_END);
                 }
             }
         }

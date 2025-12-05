@@ -1,0 +1,41 @@
+=== Stable Bitflip Injector (No PIN_ExecuteAt Edition) ===
+[TARGET] Found ADD instruction @0x7f7d2e5e20d1
+Instruction at 0x7f7d2e5e20d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f7d2e5e20d1
+Instruction at 0x7f7d2e5e20d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f7d2e5e20d1
+Instruction at 0x7f7d2e5e20d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f7d2e5e2146
+Instruction at 0x7f7d2e5e2146: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2156
+Instruction at 0x7f7d2e5e2156: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2166
+Instruction at 0x7f7d2e5e2166: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2176
+Instruction at 0x7f7d2e5e2176: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2186
+Instruction at 0x7f7d2e5e2186: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2196
+Instruction at 0x7f7d2e5e2196: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e21a6
+Instruction at 0x7f7d2e5e21a6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e21b6
+Instruction at 0x7f7d2e5e21b6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f7d2e5e231d
+Instruction at 0x7f7d2e5e231d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f7d2e5e25ee
+Instruction at 0x7f7d2e5e25ee: add rdi, rsi
+[TARGET] Found ADD instruction @0x7f7d2e5e231d
+Instruction at 0x7f7d2e5e231d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f7d2e5e2343
+Instruction at 0x7f7d2e5e2343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2354
+Instruction at 0x7f7d2e5e2354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f7d2e5e2358
+Instruction at 0x7f7d2e5e2358: add rcx, r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2343
+Instruction at 0x7f7d2e5e2343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f7d2e5e2354
+Instruction at 0x7f7d2e5e2354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f7d2e5e2358
+Instruction at 0x7f7d2e5e2358: add rcx, r12

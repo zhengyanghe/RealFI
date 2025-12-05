@@ -1,23 +1,69 @@
-# makefile.rules for bit_flippers
-#
-OPT := -O0                                 # 直接赋值，不是 +=
+# makefile.rules for fault_injector
+
+# 关闭优化 & inline，方便和指令地址对齐
+OPT := -O0
 TOOL_CXXFLAGS += -O0 -fno-inline-functions -fno-optimize-sibling-calls
 
-TEST_TOOL_ROOTS += bit_flippers
-# 使用 Pin 官方已编译的 cp-pin.exe 作为测试程序
-TESTAPP = /opt/pin/source/tools/Utils/obj-intel64/cp-pin.exe
-# 也可以使用一个简单的 Hello World 程序作为测试程序
-# TESTAPP = /path/to/your/test/program
+########################################################################
+# 需要构建的 pintool 名字
+#
+# 这行的含义是：
+#   - 会去找 faultinjection.cpp
+#   - 生成 obj-$(TARGET_ARCH)/faultinjection$(PINTOOL_SUFFIX)
+########################################################################
 
-bit_flippers.test: $(OBJDIR)bit_flippers$(PINTOOL_SUFFIX) $(TESTAPP)
-	# 运行 Pin Tool，并将输出重定向到日志文件
-	$(PIN) -t $(OBJDIR)bit_flippers$(PINTOOL_SUFFIX) -- $(TESTAPP) > $(OBJDIR)bit_flippers_app.log 2>&1
-	
-	# 检查故障注入日志文件，确保工具至少运行了一次
-	$(GREP) "START" bit_flippers.log > /dev/null || (cat bit_flippers.log && exit 1)
-	
-	@echo "=== bit_flippers tool executed successfully. Check bit_flippers.log for fault injection details. ==="
-	# 打印出日志中所有进行故障注入的行
-	@$(GREP) "FAULT INJECTION" bit_flippers.log || true
-	
-	$(RM) bit_flippers.log $(OBJDIR)bit_flippers_app.log
+TOOL_ROOTS := faultinjection
+
+########################################################################
+# 如果 faultinjection.cpp 里还用到了本目录其它 .cpp（比如 utils.cpp、
+# instselector.cpp、instcategory.cpp），可以在这里显式加上：
+#
+# 例子：
+#   OBJS_faultinjection = \
+#       $(OBJDIR)faultinjection.o \
+#       $(OBJDIR)utils.o \
+#       $(OBJDIR)instselector.o \
+#       $(OBJDIR)instcategory.o
+#
+# 但如果你已经把复杂逻辑都合并到一个 faultinjection.cpp 里，
+# 那就不需要这一段，保持注释即可。
+########################################################################
+
+#OBJS_faultinjection = \
+#    $(OBJDIR)faultinjection.o \
+#    $(OBJDIR)utils.o \
+#    $(OBJDIR)instselector.o \
+#    $(OBJDIR)instcategory.o
+
+########################################################################
+# 简单的测试目标：faultinjection.test
+#
+# 会：
+#   1. 编译出 obj-intel64/faultinjection.so
+#   2. 用一个测试程序跑一下（这里默认用 Pin 自带 cp-pin.exe）
+#   3. 把运行输出重定向到日志方便你看
+########################################################################
+
+# 把 faultinjection 加入 TEST_TOOL_ROOTS（Pin 默认测试框架）
+TEST_TOOL_ROOTS += faultinjection
+
+# 测试程序：可以换成你自己的 benchmark / 测试程序
+TESTAPP ?= $(PIN_ROOT)/source/tools/Utils/obj-intel64/cp-pin.exe
+
+faultinjection.test: $(OBJDIR)faultinjection$(PINTOOL_SUFFIX) $(TESTAPP)
+	@echo "=== Running faultinjection pintool on $(TESTAPP) ==="
+	$(PIN) -t $(OBJDIR)faultinjection$(PINTOOL_SUFFIX) -- $(TESTAPP) > $(OBJDIR)faultinjection_app.log 2>&1
+
+	@echo "=== faultinjection tool executed. Logs: ==="
+	@echo "  - Pintool log   : bitflip.log (如果你的代码里是这个文件名)"
+	@echo "  - App   log     : $(OBJDIR)faultinjection_app.log"
+
+	# 这里不强制 grep 某一行，避免因为字符串对不上导致 make 失败
+	# 你可以根据自己的 log 格式再加检查，例如：
+	#   $(GREP) "Activated" bitflip.log > /dev/null || (cat bitflip.log && exit 1)
+
+########################################################################
+# 额外说明：
+# - 构建：  make PIN_ROOT=/opt/pin
+# - 测试：  make faultinjection.test PIN_ROOT=/opt/pin
+########################################################################

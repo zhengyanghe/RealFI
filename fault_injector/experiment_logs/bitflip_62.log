@@ -1,0 +1,41 @@
+=== Stable Bitflip Injector (No PIN_ExecuteAt Edition) ===
+[TARGET] Found ADD instruction @0x7f14415de0d1
+Instruction at 0x7f14415de0d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f14415de0d1
+Instruction at 0x7f14415de0d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f14415de0d1
+Instruction at 0x7f14415de0d1: add rdx, 0x10
+[TARGET] Found ADD instruction @0x7f14415de146
+Instruction at 0x7f14415de146: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de156
+Instruction at 0x7f14415de156: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de166
+Instruction at 0x7f14415de166: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de176
+Instruction at 0x7f14415de176: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de186
+Instruction at 0x7f14415de186: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de196
+Instruction at 0x7f14415de196: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de1a6
+Instruction at 0x7f14415de1a6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de1b6
+Instruction at 0x7f14415de1b6: add qword ptr [rax+0x8], r12
+[TARGET] Found ADD instruction @0x7f14415de31d
+Instruction at 0x7f14415de31d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f14415de5ee
+Instruction at 0x7f14415de5ee: add rdi, rsi
+[TARGET] Found ADD instruction @0x7f14415de31d
+Instruction at 0x7f14415de31d: add rdi, rax
+[TARGET] Found ADD instruction @0x7f14415de343
+Instruction at 0x7f14415de343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f14415de354
+Instruction at 0x7f14415de354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f14415de358
+Instruction at 0x7f14415de358: add rcx, r12
+[TARGET] Found ADD instruction @0x7f14415de343
+Instruction at 0x7f14415de343: add rdx, r12
+[TARGET] Found ADD instruction @0x7f14415de354
+Instruction at 0x7f14415de354: add rax, 0x18
+[TARGET] Found ADD instruction @0x7f14415de358
+Instruction at 0x7f14415de358: add rcx, r12
